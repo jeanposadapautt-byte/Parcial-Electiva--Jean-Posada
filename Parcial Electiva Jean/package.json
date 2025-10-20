@@ -1,0 +1,18 @@
+{
+  "name": "parcial_electiva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ejercicio1": "node ejercicio1.js",
+    "ejercicio2": "node ejercicio2.js"
+  
+  },
+  "author": "joseph",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
